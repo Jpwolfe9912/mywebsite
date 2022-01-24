@@ -1,0 +1,9 @@
+h1{
+    color: red;
+    background-color: black;
+}
+
+h1.page-title{
+    color: green;
+    font-size: 80px;
+}

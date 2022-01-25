@@ -7,3 +7,9 @@ h1.page-title{
     color: green;
     font-size: 80px;
 }
+
+body{
+    background-color: cadetblue;
+}
+
+p.dotted {border-style: dotted;}
